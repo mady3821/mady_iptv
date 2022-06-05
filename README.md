@@ -1,5 +1,3 @@
-# mady_iptv
-myiptv
 #EXTM3U
 #EXTINF:-1 tvg-id="3eeshAlAanTV.ae" status="online",Al Aan TV (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x74wje5
